@@ -15,7 +15,7 @@ export default function About() {
         </div>
         <div className="about-highlight">
           <img
-            className="about-photo"
+            className="about-photo about-photo-circle"
             src={profile.photo}
             alt={profile.photoAlt}
             width="800"

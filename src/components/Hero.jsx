@@ -46,13 +46,6 @@ export default function Hero() {
 
         <div className="hero-art" aria-label="IT support illustration">
           <div className="art-grid" />
-          <img
-            className="profile-photo"
-            src={profile.photo}
-            alt={profile.photoAlt}
-            width="800"
-            height="1067"
-          />
           <div className="art-card-main support-card">
             <div className="code-window-top">
               <i />
