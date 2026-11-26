@@ -1,6 +1,6 @@
 # Rebuma Tamiru Roro — Portfolio
 
-Portfolio of Rebuma Tamiru Roro — Front-End Developer and Graphic
+Portfolio of Rebuma Tamiru Roro — Web Developer and Graphic
 Designer. Built with React + Vite. This is the clean, editable source
 for the site live at https://gentle-pithivier-2aa57c.netlify.app/
 

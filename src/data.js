@@ -7,7 +7,7 @@
 export const profile = {
   name: 'Rebuma Tamiru Roro',
   firstName: 'Rebuma',
-  role: 'Front-End Developer & Graphic Designer',
+  role: 'Web Developer & Graphic Designer',
   shortRole: 'IT Support professional',
   location: 'Addis Ababa, Ethiopia',
   phone: '+251 969 120 139',
